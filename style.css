@@ -16,15 +16,16 @@ ol,
 .links {
     color:#2d9154;
     text-align: center;
-    margin: auto;
-    box-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    box-align: left;
     list-style-position: inside;
 }
 
 img {
     height: auto;
     width: 215px;
-    margin:auto;
+    margin: auto;
     display: block;
 }
 
