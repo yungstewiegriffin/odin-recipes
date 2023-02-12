@@ -10,8 +10,14 @@ h1 {
     font-size: 36px;
 }
 
-.li .links {
+.list1
+.links {
     color:#2d9154;
     text-align: center;
     box-align: center;
+}
+
+img {
+    height: auto;
+    width: 350px;
 }
