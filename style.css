@@ -19,6 +19,7 @@ ol,
     margin-left: auto;
     margin-right: auto;
     box-align: left;
+    display: inline-block;
     list-style-position: inside;
 }
 
@@ -34,6 +35,7 @@ p,
 h3 {
     color:#2d9154;
     text-align:center;
+    display: inline-block;
 }
 
 h2,
