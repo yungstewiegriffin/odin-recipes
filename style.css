@@ -10,7 +10,8 @@ h1 {
     font-size: 36px;
 }
 
-li .links {
+.li .links {
     color:#2d9154;
     text-align: center;
+    box-align: center;
 }
