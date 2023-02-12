@@ -1,5 +1,7 @@
-body {
-    background-color: #fce5c5;
+* {
+    background-color: #fae7cd;
 }
 
-.h1 {}
+h1 {
+    color:#2d9154;
+}
