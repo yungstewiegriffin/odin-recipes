@@ -2,7 +2,9 @@
     background-color: #fae7cd;
 }
 
-.h1 {
+h1 {
     color:#2d9154;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
+li {color:#2d9154}
