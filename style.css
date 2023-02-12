@@ -1,26 +1,40 @@
 * {
     background-color: #fae7cd;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Georgia, Garamond, 'Times New Roman', serif;
 }
 
 h1 {
     color:#2d9154;
-    font-weight: bold;
+    font-weight: 100px;
     text-align: center;
-    font-size: 36px;
+    font-size: 42px;
 }
 
 ul,
+ol,
 .links {
     color:#2d9154;
     text-align: center;
+    margin: auto;
     box-align: center;
     list-style-position: inside;
 }
 
 img {
     height: auto;
-    width: 250px;
+    width: 215px;
     margin:auto;
     display: block;
+}
+
+h2,
+p,
+h3 {
+    color:#2d9154;
+    text-align:center;
+}
+
+h2,
+h3 {
+    font-weight:bold;
 }
