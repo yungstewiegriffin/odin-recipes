@@ -16,10 +16,9 @@ ol,
 .links {
     color:#2d9154;
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-    box-align: left;
-    display: inline-block;
+}
+
+ul {
     list-style-position: inside;
 }
 
@@ -34,8 +33,7 @@ h2,
 p,
 h3 {
     color:#2d9154;
-    text-align:center;
-    display: inline-block;
+    
 }
 
 h2,
