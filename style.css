@@ -16,6 +16,7 @@ ol,
 .links {
     color:#2d9154;
     text-align: center;
+    display: block;
 }
 
 ul {
